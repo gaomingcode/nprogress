@@ -1,4 +1,17 @@
 {
   "name":"gaomingcode/nprogress",
-  "type": "library"
+    "description": "For slim progress bars like on YouTube, Medium, etc.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "nprogress", "progress","bar","spinner"
+    ],
+    "homepage": "http://ricostacruz.com/nprogress",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        "Alexander Petkov"
+    ]
 }
