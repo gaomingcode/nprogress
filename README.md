@@ -1,17 +1,22 @@
-NProgress
-=========
+# NProgress
 
-[![Status](https://api.travis-ci.org/rstacruz/nprogress.svg?branch=master)](http://travis-ci.org/rstacruz/nprogress) 
-[![npm version](https://img.shields.io/npm/v/nprogress.png)](https://npmjs.org/package/nprogress "View this project on npm")
-[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/nprogress/badge?style=rounded)](https://www.jsdelivr.com/package/npm/nprogress)
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/nprogress.svg)](https://github.com/gaomingcode/nprogress)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/nprogress)](https://github.com/gaomingcode/nprogress)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/nprogress)](https://github.com/gaomingcode/nprogress)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/nprogress
+```
+###
 
 > Minimalist progress bar
 
 Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and
 Medium.
-
-Installation
-------------
 
 Add [nprogress.js] and [nprogress.css] to your project.
 
